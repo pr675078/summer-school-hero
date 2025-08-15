@@ -35,7 +35,7 @@ export default function Navbar() {
 
       {/* Hamburger Menu */}
       <button
-        className="block text-2xl bg-none border-none cursor-pointer mr-[15px] p-[10px] md:hidden"
+        className="block text-2xl bg-none border-none cursor-pointer mr-[8px] p-[10px] md:hidden"
         onClick={toggleDropdown}
       >
         &#9776;
