@@ -23,7 +23,7 @@ export default function ContentSection() {
       </div>
 
       {/* Start Learning Button */}
-      <button className="start-learning-btn font-inter tracking-[1px] w-[clamp(120px,30vw,166px)] h-[clamp(35px,7vw,41px)] font-light rounded-[25px] text-white text-[clamp(14px,3vw,20px)] bg-black cursor-pointer mt-[2vh] transition-all duration-300 ease-in-out border-white relative z-[2] border-none md:mt-[1.8vh] max-[480px]:w-[130px] max-[480px]:h-[36px] max-[480px]:text-base max-[480px]:mt-[1.5vh] hover:bg-[#333] hover:scale-105 hover:transition-transform hover:duration-[0.08s] hover:ease-in-out">
+      <button className="start-learning-btn font-inter tracking-[1px] w-[clamp(120px,30vw,166px)] h-[clamp(35px,7vw,41px)] font-light rounded-[25px] text-white text-[clamp(14px,3vw,20px)] bg-black cursor-pointer mt-[2vh] transition-all duration-300 ease-in-out border-white relative z-[2] border-none md:mt-[1.8vh] max-[480px]:w-[150px] max-[480px]:h-[36px] max-[480px]:text-base max-[480px]:mt-[1.5vh] hover:bg-[#333] hover:scale-105 hover:transition-transform hover:duration-[0.08s] hover:ease-in-out">
         Start Learning
       </button>
     </div>
