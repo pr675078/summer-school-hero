@@ -29,7 +29,7 @@ export default function Navbar() {
       </div>
 
       {/* Sign Up Button */}
-      <button className="border-[0.5px] border-black font-roboto flex justify-center items-center cursor-pointer w-[80px] h-[25px] text-[clamp(12px,2vw,16px)] rounded-[25px] tracking-wide bg-transparent mr-[45px] relative z-10 hover:bg-[#0b99ff] hover:border-white hover:text-white transition-colors hidden md:block max-[480px]:ml-[20px]">
+      <button className="border-[0.5px] border-black font-roboto justify-center items-center cursor-pointer w-[80px] h-[25px] text-[clamp(12px,2vw,16px)] rounded-[25px] tracking-wide bg-transparent mr-[45px] relative z-10 hover:bg-[#0b99ff] hover:border-white hover:text-white transition-colors hidden md:block max-[480px]:ml-[20px]">
         SIGN UP
       </button>
 
